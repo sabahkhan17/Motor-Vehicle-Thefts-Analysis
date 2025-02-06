@@ -1,4 +1,3 @@
----basic queries
 ---Q1: How many vehicles have been stolen in total?
 
 SELECT
