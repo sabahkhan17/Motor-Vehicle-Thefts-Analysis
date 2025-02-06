@@ -1,0 +1,21 @@
+Basic Level (Understanding the Data)
+How many vehicles have been stolen in total?
+What are the most common vehicle types stolen?
+Which vehicle colors are stolen the most?
+Which year had the highest number of stolen vehicles?
+What are the top 5 most stolen vehicle makes?
+
+
+Intermediate Level (Exploring Patterns & Trends)
+Which locations (regions or countries) report the highest number of vehicle thefts?
+Is there a correlation between population density and vehicle theft incidents?
+What is the trend of vehicle thefts over time (monthly/yearly basis)?
+Are newer or older vehicles more likely to be stolen?
+Which vehicle types are stolen the most in urban vs. rural areas (based on population density)?
+
+
+Advanced Level (Deeper Insights & Predictive Analysis)
+Can we predict the likelihood of a vehicle being stolen based on its make, model year, and location?
+Are there seasonal patterns in vehicle thefts (e.g., do thefts increase in certain months)?
+Do certain makes or models get stolen more in specific regions or countries?
+What factors (color, vehicle type, make, model year, location) have the strongest impact on vehicle theft likelihood?
